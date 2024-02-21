@@ -56,7 +56,7 @@ void RegistrarBanda()
     Console.WriteLine("Digite o nome de uma banda:");
     String nomeBanda = Console.ReadLine()!;
     bandasRegistradas.Add(nomeBanda, new List<int>());
-    Console.WriteLine($"A banda {nomeBanda} foi registrada com sucesso!");
+    Console.WriteLine($"A banda {nomeBanda} foi registrada com sucesso!\nParabens!!!!!!");
     Thread.Sleep(2000);
 
     Menu();

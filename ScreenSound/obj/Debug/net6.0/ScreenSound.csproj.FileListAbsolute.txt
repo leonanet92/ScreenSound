@@ -1,0 +1,15 @@
+A:\leona\Documents\#Programacao\ScreenSound\ScreenSound\bin\Debug\net6.0\ScreenSound.exe
+A:\leona\Documents\#Programacao\ScreenSound\ScreenSound\bin\Debug\net6.0\ScreenSound.deps.json
+A:\leona\Documents\#Programacao\ScreenSound\ScreenSound\bin\Debug\net6.0\ScreenSound.runtimeconfig.json
+A:\leona\Documents\#Programacao\ScreenSound\ScreenSound\bin\Debug\net6.0\ScreenSound.dll
+A:\leona\Documents\#Programacao\ScreenSound\ScreenSound\bin\Debug\net6.0\ScreenSound.pdb
+A:\leona\Documents\#Programacao\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.AssemblyReference.cache
+A:\leona\Documents\#Programacao\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+A:\leona\Documents\#Programacao\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfoInputs.cache
+A:\leona\Documents\#Programacao\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.AssemblyInfo.cs
+A:\leona\Documents\#Programacao\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.csproj.CoreCompileInputs.cache
+A:\leona\Documents\#Programacao\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.dll
+A:\leona\Documents\#Programacao\ScreenSound\ScreenSound\obj\Debug\net6.0\refint\ScreenSound.dll
+A:\leona\Documents\#Programacao\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.pdb
+A:\leona\Documents\#Programacao\ScreenSound\ScreenSound\obj\Debug\net6.0\ScreenSound.genruntimeconfig.cache
+A:\leona\Documents\#Programacao\ScreenSound\ScreenSound\obj\Debug\net6.0\ref\ScreenSound.dll

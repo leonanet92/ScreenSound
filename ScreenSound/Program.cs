@@ -98,7 +98,7 @@ void ExibeMediaBanda()
     Menu();
 }
 
-//Função para gerar o cabeçalho de cadas pagina
+//Função para gerar o cabeçalho de cada pagina
 void TituloDoMenu(String tituloMenu)
 {
     int quantidadeChar = tituloMenu.Length;

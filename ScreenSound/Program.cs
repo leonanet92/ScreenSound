@@ -3,7 +3,7 @@
 Dictionary<string, List<int>> bandasRegistradas = new Dictionary<string, List<int>>();
 bandasRegistradas.Add("Link park", new List<int> { 10, 8, 9 });
 bandasRegistradas.Add("Guns", new List<int>());
-//Funcções
+//Função que imprime apenas a logo com o nome do projeto
 void Logo()
 {
     Console.Clear();
@@ -15,6 +15,8 @@ void Logo()
 ██████╔╝╚█████╔╝██║░░██║███████╗███████╗██║░╚███║  ██████╔╝╚█████╔╝╚██████╔╝██║░╚███║██████╔╝
 ╚═════╝░░╚════╝░╚═╝░░╚═╝╚══════╝╚══════╝╚═╝░░╚══╝  ╚═════╝░░╚════╝░░╚═════╝░╚═╝░░╚══╝╚═════╝░");
 }
+
+//Função resposnsavel pelo menu principal da aplicação
 void Menu()
 {
     Logo();
@@ -49,6 +51,7 @@ void Menu()
     }
 }
 
+//função para registrar uma banda
 void RegistrarBanda()
 {
     Console.Clear();
@@ -61,6 +64,8 @@ void RegistrarBanda()
 
     Menu();
 }
+
+//fução para mostrar as bandas registrada
 void MotrarBanda()
 {
     Console.Clear();
@@ -73,6 +78,8 @@ void MotrarBanda()
     Console.ReadKey();
     Menu();
 }
+
+//Função para avaliar uma determinada banda
 void AvaliarBanda()
 {
     Console.Clear();
@@ -81,6 +88,7 @@ void AvaliarBanda()
     Console.ReadKey();
     Menu();
 }
+//Função de medir a media das notas de uma banda
 void ExibeMediaBanda()
 {
     Console.Clear();
@@ -89,6 +97,8 @@ void ExibeMediaBanda()
     Console.ReadKey();
     Menu();
 }
+
+//Função para gerar o cabeçalho de cadas pagina
 void TituloDoMenu(String tituloMenu)
 {
     int quantidadeChar = tituloMenu.Length;

@@ -83,7 +83,7 @@ void MotrarBanda()
 void AvaliarBanda()
 {
     Console.Clear();
-    TituloDoMenu("Avaliar de bandas");
+    TituloDoMenu("Avaliacao de bandas");
 
     Console.ReadKey();
     Menu();
